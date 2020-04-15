@@ -32,3 +32,5 @@
             console.log("beach clicked");
             $("#hopper").attr("src", "https://www.kasandbox.org/programming-images/creatures/Hopper-Cool.png");
         });
+</head>
+</html>
