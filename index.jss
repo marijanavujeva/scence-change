@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-    
-    <!--
-    Hello.
-    You can click, on hopper, leafer and background to change the     images.
-    -->
-    
         <meta charset="utf-8">
         <title>Project: Scene change</title>
         <style>
@@ -23,6 +17,8 @@
             
         </style>
     </head>
+
+
     <body>
 
     <img src="https://www.kasandbox.org/programming-images/landscapes/beach-with-palm-trees.png" id="beach">
@@ -55,9 +51,7 @@
             console.log("beach clicked");
             $("#hopper").attr("src", "https://www.kasandbox.org/programming-images/creatures/Hopper-Cool.png");
         });
-</head>
-</html>
-    
+</script>
     
 
     </body>
