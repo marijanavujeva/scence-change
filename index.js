@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+    <!--
+    Hello.
+    You can click, on hopper, leafer and background to change the     images.
+    -->
+    
+        <meta charset="utf-8">
+        <title>Project: Scene change</title>
+
+
+
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script>
         $("#leafers").on("click", function(event) {
